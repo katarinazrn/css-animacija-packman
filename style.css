@@ -22,7 +22,7 @@ body {
   overflow: hidden;
 }
 
-.packman {
+.pacman {
   height: 100px;
   width: 100px;
   border-radius: 50%;
@@ -41,11 +41,11 @@ body {
   animation-timing-function: linear;
 }
 
-.packman.top {
+.pacman.top {
   animation-name: moveTop;
 }
 
-.packman.bottom {
+.pacman.bottom {
   animation-name: moveBottom;
 }
 
